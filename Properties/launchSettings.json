@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Youtubedownloader": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
